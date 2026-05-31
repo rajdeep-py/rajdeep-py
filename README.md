@@ -41,28 +41,28 @@
 
 <div align="left">
   
-#### ⬢ [AttendX24](#)
+#### ⬢ [AttendX24](https://github.com/stars/rajdeep-py/lists/attendance-management-software)
 > A smart HRMS through which users can check in and check out using fingerprint, face recognition, and background location permissions. Employees can request leaves, view the holiday calendar, and check their attendance records. The admin panel allows organizations to log in, onboard and manage employees, track attendance, download attendance sheets, and manage leave requests.
 > <br><br>
 > <img src="assets/icons/flutter.png" height="25" alt="Flutter" />&nbsp; <img src="assets/icons/fastapi.png" height="25" alt="FastAPI" />&nbsp; <img src="assets/icons/postgresql.png" height="25" alt="PostgreSQL" />
 
 <br>
 
-#### ⬢ [Online Book Store](#)
+#### ⬢ [Online Book Store](https://github.com/stars/rajdeep-py/lists/book-heaven)
 > A comprehensive online bookstore website where customers can browse books, add to cart, create an account, place orders, and log in to view their profile and order history. It includes an admin panel to manage book inventory, orders, customers, the "About Us" page, and partners. 
 > <br><br>
 > <img src="assets/icons/html.png" height="25" alt="HTML" />&nbsp; <img src="assets/icons/css.png" height="25" alt="CSS" />&nbsp; <img src="assets/icons/js.png" height="25" alt="JavaScript" />&nbsp; *(+ JSP Servlet & MySQL)*
 
 <br>
 
-#### ⬢ [Women Safety App](#)
+#### ⬢ [Women Safety App](https://github.com/stars/rajdeep-py/lists/flutter-apps)
 > A mobile application focused on user safety. Users can log in and join communities to explore the feed. On pressing the volume up/down button, it triggers an emergency sequence: initiating live video recording and sharing real-time location with pre-configured trusted contacts using background permissions.
 > <br><br>
 > <img src="assets/icons/flutter.png" height="25" alt="Flutter" />&nbsp; *(Frontend Only)*
 
 <br>
 
-#### ⬢ [Captain App](#)
+#### ⬢ [Captain App](https://github.com/stars/rajdeep-py/lists/flutter-apps)
 > An intuitive mobile application enabling riders to log in, go online, and accept ride orders or parcel delivery requests from customers. 
 > <br><br>
 > <img src="assets/icons/flutter.png" height="25" alt="Flutter" />&nbsp; *(Frontend Only)*
@@ -94,34 +94,22 @@
 </div>
 
 <br><br>
-<h2 align="center">C O N N E C T</h2>
+<h2 align="center">L E T 'S &nbsp; C O N N E C T</h2>
 <br>
 
 <div align="center">
   <p><em>Let's build something amazing together.</em></p>
   <br>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=black">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
-    </picture>
+  <a href="https://www.linkedin.com/in/rajdeep-dey-40661a341/">
+    <img src="assets/icons/linkedin.png" width="45" alt="LinkedIn" title="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR.EMAIL@EXAMPLE.COM">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-ffffff?style=flat-square&logo=gmail&logoColor=black">
-      <img alt="Email" src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" />
-    </picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:deyrajdeep@gmail.com">
+    <img src="assets/icons/mail.png" width="45" alt="Email" title="Email" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://YOUR-PORTFOLIO-WEBSITE.COM">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Web&logoColor=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Web&logoColor=black">
-      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Web&logoColor=white" />
-    </picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://rajdeep-py.github.io/">
+    <img src="assets/icons/portfolio.png" width="45" alt="Portfolio" title="Portfolio" />
   </a>
 </div>
 
