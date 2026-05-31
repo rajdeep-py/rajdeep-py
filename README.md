@@ -75,21 +75,21 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rajdeep-py&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rajdeep-py&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true">
-    <img alt="Rajdeep's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rajdeep-py&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rajdeep-py&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&border_radius=0">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rajdeep-py&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&border_radius=0">
+    <img alt="Rajdeep's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rajdeep-py&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&border_radius=0" />
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-py&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=0">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-py&layout=compact&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&border_radius=0">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-py&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=0" />
   </picture>
   <br><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-py&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-py&layout=compact&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-py&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true" />
-  </picture>
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep-py&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep-py&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&hide_border=true">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep-py&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep-py&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&border_radius=0">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep-py&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&hide_border=true&border_radius=0">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep-py&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&border_radius=0" />
   </picture>
 </div>
 
@@ -98,25 +98,29 @@
 <br>
 
 <div align="center">
+  <p><em>Let's build something amazing together.</em></p>
+  <br>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=black">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
     </picture>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:YOUR.EMAIL@EXAMPLE.COM">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black">
-      <img alt="Email" src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-ffffff?style=flat-square&logo=gmail&logoColor=black">
+      <img alt="Email" src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" />
     </picture>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://YOUR-PORTFOLIO-WEBSITE.COM">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Web&logoColor=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=Web&logoColor=black">
-      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Web&logoColor=white" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Web&logoColor=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Web&logoColor=black">
+      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Web&logoColor=white" />
     </picture>
   </a>
 </div>
