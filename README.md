@@ -90,8 +90,3 @@
   </a>
 </div>
 
-<br>
-<div align="center">
-  <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em><br>
-  — <b>Martin Fowler</b>
-</div>
