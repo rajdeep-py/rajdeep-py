@@ -7,12 +7,12 @@
 
 ### ABOUT ME
 
-- 🎓 Currently pursuing my **BCA** from **Future Institute of Engineering and Management**.
-- 💻 **Technical Focus:** I am deeply passionate about building robust, scalable mobile and web applications. My core expertise lies in crafting seamless frontends using **Flutter**, **React**, and Vanilla JS, coupled with designing highly optimized backend architectures using **FastAPI** and **PostgreSQL**.
-- 🚀 **Problem Solving:** I thrive on translating complex, real-world problems into clean, efficient, and maintainable code.
-- 🎨 **Art & Cinema:** Outside of coding, I am an avid lover of art and cinema, often drawing creative inspiration for my UI designs from cinematic storytelling and visual arts.
-- 🏛️ **Politics:** I maintain a keen interest in global politics, staying informed about how policy changes shape the world and the tech industry.
-- ⚽ **Sports:** I am a sports enthusiast, which fuels my competitive spirit, teamwork, and drive for continuous improvement.
+- Currently pursuing my **BCA** from **Future Institute of Engineering and Management**.
+- **Technical Focus:** I am deeply passionate about building robust, scalable mobile and web applications. My core expertise lies in crafting seamless frontends using **Flutter**, **React**, and Vanilla JS, coupled with designing highly optimized backend architectures using **FastAPI** and **PostgreSQL**.
+- **Problem Solving:** I thrive on translating complex, real-world problems into clean, efficient, and maintainable code.
+- **Art & Cinema:** Outside of coding, I am an avid lover of art and cinema, often drawing creative inspiration for my UI designs from cinematic storytelling and visual arts.
+- **Politics:** I maintain a keen interest in global politics, staying informed about how policy changes shape the world and the tech industry.
+- **Sports:** I am a sports enthusiast, which fuels my competitive spirit, teamwork, and drive for continuous improvement.
 
 ---
 
