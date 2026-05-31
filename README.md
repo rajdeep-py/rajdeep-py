@@ -69,29 +69,6 @@
 
 </div>
 
-<br><br>
-<h2 align="center">M E T R I C S</h2>
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rajdeep-py&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&border_radius=0">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rajdeep-py&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&border_radius=0">
-    <img alt="Rajdeep's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rajdeep-py&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&border_radius=0" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-py&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=0">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-py&layout=compact&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&border_radius=0">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-py&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=0" />
-  </picture>
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep-py&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&border_radius=0">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep-py&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&hide_border=true&border_radius=0">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep-py&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&border_radius=0" />
-  </picture>
-</div>
 
 <br><br>
 <h2 align="center">L E T 'S &nbsp; C O N N E C T</h2>
