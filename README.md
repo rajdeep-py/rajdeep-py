@@ -7,9 +7,9 @@
   <p><em>Crafting beautiful and scalable mobile and web applications</em></p>
 </div>
 
----
-
-### ABOUT ME
+<br><br>
+<h2 align="center">A B O U T &nbsp; M E</h2>
+<br>
 
 - Currently pursuing my **BCA** from **Future Institute of Engineering and Management**.
 - **Technical Focus:** I am deeply passionate about building robust, scalable mobile and web applications. My core expertise lies in crafting seamless frontends using **Flutter**, **React**, and Vanilla JS, coupled with designing highly optimized backend architectures using **FastAPI** and **PostgreSQL**.
@@ -18,9 +18,9 @@
 - **Politics:** I maintain a keen interest in global politics, staying informed about how policy changes shape the world and the tech industry.
 - **Sports:** I am a sports enthusiast, which fuels my competitive spirit, teamwork, and drive for continuous improvement.
 
----
-
-### TECH STACK
+<br><br>
+<h2 align="center">T E C H &nbsp; S T A C K</h2>
+<br>
 
 <div align="center">
   <br>
@@ -35,10 +35,8 @@
   <br>
 </div>
 
----
-
-### PROJECTS
-
+<br><br>
+<h2 align="center">P R O J E C T S</h2>
 <br>
 
 <div align="left">
@@ -71,9 +69,9 @@
 
 </div>
 
----
-
-### METRICS
+<br><br>
+<h2 align="center">M E T R I C S</h2>
+<br>
 
 <div align="center">
   <picture>
@@ -95,9 +93,9 @@
   </picture>
 </div>
 
----
-
-### CONNECT
+<br><br>
+<h2 align="center">C O N N E C T</h2>
+<br>
 
 <div align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL">
