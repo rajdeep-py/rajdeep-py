@@ -7,11 +7,15 @@
 
 ### ABOUT ME
 
+<img src="assets/personal/photo.jpg" align="right" width="220" height="250" style="object-fit: cover; object-position: top; border-radius: 12px; margin: 0 0 15px 20px; box-shadow: -4px 4px 0px #333;" alt="Rajdeep Dey" />
+
 - Currently pursuing **BCA** from **Future Institute of Engineering and Management**.
 - Passionate about developing scalable mobile and web applications that solve real-world problems.
 - Exploring new technologies, focusing on **Flutter**, **FastAPI**, and modern web architectures.
 - Currently diving deeper into advanced backend optimizations and responsive UI patterns.
 - **Fun fact:** I love translating complex problems into clean, efficient, and maintainable code.
+
+<br clear="both">
 
 ---
 
@@ -43,14 +47,35 @@
 
 ### PROJECTS
 
-<div align="center">
+<br>
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[AttendX24](#)** | Comprehensive attendance and employee management software. | `Flutter` `FastAPI` `PostgreSQL` |
-| **[Online Book Store](#)** | Full-stack bookstore platform featuring secure user authentication. | `React` `JavaScript` `PostgreSQL` |
-| **[Captain App](#)** | Intuitive mobile application for ride booking and parcel delivery. | `Flutter` `REST APIs` `Maps` |
-| **[Women Safety App](#)** | Emergency and safety-focused mobile application. | `Flutter` `Dart` `Geolocation` |
+<div align="left">
+  
+#### ⬢ [AttendX24](#)
+> Comprehensive attendance and employee management software designed for seamless workforce administration.
+> <br>
+> <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+
+<br>
+
+#### ⬢ [Online Book Store](#)
+> Full-stack bookstore platform featuring secure user authentication, product management, and robust backend.
+> <br>
+> <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+
+<br>
+
+#### ⬢ [Captain App](#)
+> Intuitive mobile application for ride booking and parcel delivery, connecting users with captains efficiently.
+> <br>
+> <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Maps-000000?style=flat-square&logo=googlemaps&logoColor=white" />
+
+<br>
+
+#### ⬢ [Women Safety App](#)
+> Emergency and safety-focused mobile application with instant alerts and location sharing capabilities.
+> <br>
+> <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Geolocation-000000?style=flat-square&logo=location&logoColor=white" />
 
 </div>
 
