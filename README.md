@@ -11,12 +11,9 @@
 <h2 align="center">A B O U T &nbsp; M E</h2>
 <br>
 
-- Currently pursuing my **BCA** from **Future Institute of Engineering and Management**.
-- **Technical Focus:** I am deeply passionate about building robust, scalable mobile and web applications. My core expertise lies in crafting seamless frontends using **Flutter**, **React**, and Vanilla JS, coupled with designing highly optimized backend architectures using **FastAPI** and **PostgreSQL**.
-- **Problem Solving:** I thrive on translating complex, real-world problems into clean, efficient, and maintainable code.
-- **Art & Cinema:** Outside of coding, I am an avid lover of art and cinema, often drawing creative inspiration for my UI designs from cinematic storytelling and visual arts.
-- **Politics:** I maintain a keen interest in global politics, staying informed about how policy changes shape the world and the tech industry.
-- **Sports:** I am a sports enthusiast, which fuels my competitive spirit, teamwork, and drive for continuous improvement.
+<div align="center">
+  I am currently pursuing my <b>BCA</b> at the <b>Future Institute of Engineering and Management</b>, with a deep passion for building robust, scalable applications. My technical expertise lies in crafting seamless frontend experiences using <b>Flutter</b>, <b>React</b>, and <b>Vanilla JS</b>, backed by highly optimized backend architectures built on <b>FastAPI</b> and <b>PostgreSQL</b>. I thrive on translating complex, real-world problems into clean, maintainable code. Beyond the screen, I am an avid lover of <b>art and cinema</b>, often drawing creative inspiration for my UI designs from visual storytelling. I also maintain a keen interest in <b>global politics</b> to stay informed about how policies shape the tech industry, and I actively participate in <b>sports</b>, which fuels my competitive spirit, teamwork, and drive for continuous improvement.
+</div>
 
 <br><br>
 <h2 align="center">T E C H &nbsp; S T A C K</h2>
