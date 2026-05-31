@@ -59,6 +59,13 @@
 
 <br>
 
+#### ⬢ [Music & Podcast App](https://github.com/stars/rajdeep-py/lists/flutter-apps)
+> A mobile application focused on user engagement, allowing users to stream music, listen to podcasts, watch videos, and explore content based on their mood. It also allows users to create playlists and share them with others.
+> <br><br>
+> <img src="assets/icons/flutter.png" height="25" alt="Flutter" />&nbsp; *(Frontend Only)*
+
+<br>
+
 #### ⬢ [Captain App](https://github.com/stars/rajdeep-py/lists/flutter-apps)
 > An intuitive mobile application enabling riders to log in, go online, and accept ride orders or parcel delivery requests from customers. 
 > <br><br>
