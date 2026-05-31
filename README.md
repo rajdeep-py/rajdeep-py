@@ -7,40 +7,28 @@
 
 ### ABOUT ME
 
-<img src="assets/personal/photo.jpg" align="right" width="220" height="250" style="object-fit: cover; object-position: top; border-radius: 12px; margin: 0 0 15px 20px; box-shadow: -4px 4px 0px #333;" alt="Rajdeep Dey" />
-
-- Currently pursuing **BCA** from **Future Institute of Engineering and Management**.
-- Passionate about developing scalable mobile and web applications that solve real-world problems.
-- Exploring new technologies, focusing on **Flutter**, **FastAPI**, and modern web architectures.
-- Currently diving deeper into advanced backend optimizations and responsive UI patterns.
-- **Fun fact:** I love translating complex problems into clean, efficient, and maintainable code.
-
-<br clear="both">
+- 🎓 Currently pursuing my **BCA** from **Future Institute of Engineering and Management**.
+- 💻 **Technical Focus:** I am deeply passionate about building robust, scalable mobile and web applications. My core expertise lies in crafting seamless frontends using **Flutter**, **React**, and Vanilla JS, coupled with designing highly optimized backend architectures using **FastAPI** and **PostgreSQL**.
+- 🚀 **Problem Solving:** I thrive on translating complex, real-world problems into clean, efficient, and maintainable code.
+- 🎨 **Art & Cinema:** Outside of coding, I am an avid lover of art and cinema, often drawing creative inspiration for my UI designs from cinematic storytelling and visual arts.
+- 🏛️ **Politics:** I maintain a keen interest in global politics, staying informed about how policy changes shape the world and the tech industry.
+- ⚽ **Sports:** I am a sports enthusiast, which fuels my competitive spirit, teamwork, and drive for continuous improvement.
 
 ---
 
 ### TECH STACK
 
 <div align="center">
-  
   <br>
-  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  
-  <br><br>
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=FastAPI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
-  <br><br>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=json&logoColor=white" />
-
+  <img src="assets/icons/flutter.png" height="50" alt="Flutter" title="Flutter" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/react.png" height="50" alt="React" title="React" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/js.png" height="50" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/html.png" height="50" alt="HTML" title="HTML" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/css.png" height="50" alt="CSS" title="CSS" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/fastapi.png" height="50" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/postgresql.png" height="50" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/docker.png" height="50" alt="Docker" title="Docker" />
+  <br>
 </div>
 
 ---
@@ -52,30 +40,30 @@
 <div align="left">
   
 #### ⬢ [AttendX24](#)
-> Comprehensive attendance and employee management software designed for seamless workforce administration.
-> <br>
-> <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+> A smart HRMS through which users can check in and check out using fingerprint, face recognition, and background location permissions. Employees can request leaves, view the holiday calendar, and check their attendance records. The admin panel allows organizations to log in, onboard and manage employees, track attendance, download attendance sheets, and manage leave requests.
+> <br><br>
+> <img src="assets/icons/flutter.png" height="25" alt="Flutter" />&nbsp; <img src="assets/icons/fastapi.png" height="25" alt="FastAPI" />&nbsp; <img src="assets/icons/postgresql.png" height="25" alt="PostgreSQL" />
 
 <br>
 
 #### ⬢ [Online Book Store](#)
-> Full-stack bookstore platform featuring secure user authentication, product management, and robust backend.
-> <br>
-> <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
-
-<br>
-
-#### ⬢ [Captain App](#)
-> Intuitive mobile application for ride booking and parcel delivery, connecting users with captains efficiently.
-> <br>
-> <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Maps-000000?style=flat-square&logo=googlemaps&logoColor=white" />
+> A comprehensive online bookstore website where customers can browse books, add to cart, create an account, place orders, and log in to view their profile and order history. It includes an admin panel to manage book inventory, orders, customers, the "About Us" page, and partners. 
+> <br><br>
+> <img src="assets/icons/html.png" height="25" alt="HTML" />&nbsp; <img src="assets/icons/css.png" height="25" alt="CSS" />&nbsp; <img src="assets/icons/js.png" height="25" alt="JavaScript" />&nbsp; *(+ JSP Servlet & MySQL)*
 
 <br>
 
 #### ⬢ [Women Safety App](#)
-> Emergency and safety-focused mobile application with instant alerts and location sharing capabilities.
-> <br>
-> <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Geolocation-000000?style=flat-square&logo=location&logoColor=white" />
+> A mobile application focused on user safety. Users can log in and join communities to explore the feed. On pressing the volume up/down button, it triggers an emergency sequence: initiating live video recording and sharing real-time location with pre-configured trusted contacts using background permissions.
+> <br><br>
+> <img src="assets/icons/flutter.png" height="25" alt="Flutter" />&nbsp; *(Frontend Only)*
+
+<br>
+
+#### ⬢ [Captain App](#)
+> An intuitive mobile application enabling riders to log in, go online, and accept ride orders or parcel delivery requests from customers. 
+> <br><br>
+> <img src="assets/icons/flutter.png" height="25" alt="Flutter" />&nbsp; *(Frontend Only)*
 
 </div>
 
